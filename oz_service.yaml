@@ -1,9 +1,10 @@
 team: oz_service
 
-leader: 희은
+leader: 기존 리더
 
 member:
-- 세형
-- 수아
-- 상훈
+- 기존 멤버
 - 지수
+
+coach:
+- 서진
